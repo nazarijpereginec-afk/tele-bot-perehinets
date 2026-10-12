@@ -1,0 +1,5 @@
+Turkey,12000.0,30,0,All inclusive hotel 5 stars
+Egypt,10000.0,25,0,Tour to pyramids
+Poland,7000.0,15,0,Excursion to Krakow and Warsaw
+Italy,15000.0,20,2,Rome + Venice + Florence
+Germany,3400.0,40,0,Excursion Berlin and Dortmund
